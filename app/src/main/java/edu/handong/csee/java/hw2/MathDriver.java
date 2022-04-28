@@ -16,6 +16,7 @@ public class MathDriver {
 
     /**
      * The run method calls of the instances of my classes.
+     * @param (Name of calculator) (Function name) (Num1) (optional)(Num2)
      */
     public void run(String[] args) {
         MathCalculator mathCalculator = new MathCalculator();
